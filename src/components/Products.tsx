@@ -13,7 +13,7 @@ const Products = () => {
   ];
 
   return (
-    <section className="py-20 px-4 bg-gradient-warm">
+    <section className="py-20 px-4 bg-gradient-warm" id="produtos">
       <div className="container mx-auto">
         <div className="text-center mb-16 space-y-4">
           <span className="text-primary font-semibold text-lg">Nossos produtos</span>
