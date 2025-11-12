@@ -6,7 +6,7 @@ import { Mail, Phone, MapPin } from "lucide-react";
 
 const Contact = () => {
   return (
-    <section className="py-20 px-4">
+    <section className="py-20 px-4" id="contato">
       <div className="container mx-auto">
         <div className="text-center mb-16 space-y-4">
           <span className="text-primary font-semibold text-lg">Entre em contato</span>

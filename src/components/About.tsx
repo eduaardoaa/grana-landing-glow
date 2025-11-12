@@ -3,7 +3,7 @@ import chickensImage from "@/assets/chickens.jpg";
 
 const About = () => {
   return (
-    <section className="py-20 px-4 bg-gradient-warm">
+    <section className="py-20 px-4 bg-gradient-warm" id="sobre">
       <div className="container mx-auto">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           {/* Image */}
